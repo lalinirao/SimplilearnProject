@@ -1,6 +1,9 @@
 # SimplilearnProject
 Virtual Key for Repository
 
+# **sprint planning**
+https://trello.com/invite/b/Z34gRNiU/761afd862efe0ca186c6630e88d1bbd9/lockedme
+
 # **GENERAL INFO:**
 A simple file handling project in Java
 
